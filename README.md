@@ -4,17 +4,17 @@
 
 <h1 align="center">E aí 👋</h1>
 <p align="center">
-  Bem-vindo(a) ao meu espaço no GitHub. Aqui, a ideia é simples: praticar, aprender e, quando der, criar algo legal. 😴💻
+  Bem-vindo(a) ao meu espaço Git, aqui é para mostrar minha evolução e meus estudos ao longo do tempo.
 </p>
 
 ---
 
 ### 💻 Sobre mim
 
-- 🎓 Estudante de programação em constante evolução.
-- 🌱 Atualmente focado(a) em aprender HTML, CSS, JavaScript e um pouco de lógica.
-- 🧩 Gosto de entender como as coisas funcionam por trás dos códigos.
-- 🎮 Curto animes, especialmente quando tem personagens geniais que parecem preguiçosos (mas são insanos de bons 👀).
+- 🎓 Estudante de programação, atualmente mergulhado no mundo do **Back-End**.
+- 🧠 Estudando **Java** até agora.
+- 🌐 Também aprendendo o básico de **Front-End** (HTML, CSS e JavaScript), mas meu foco está mais no que roda por trás dos bastidores.
+- 🧩 Gosto de resolver problemas de lógica e entender como os sistemas funcionam de verdade👀
 
 ---
 
@@ -22,29 +22,39 @@
 
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
-| Portfolio Pessoal | Uma página simples sobre mim com visual anime | 🛠️ Em desenvolvimento |
-| Calculadora JS | Projeto básico para treinar JavaScript | ✅ Finalizado |
-| Em breve... | Mais ideias vindo por aí. | 🔜 |
+| API de Usuários | Projeto básico em Java com lógica de CRUD | 🛠️ Em progresso |
+| Portfolio Pessoal | Página sobre mim com estética anime | ✅ Finalizado |
+| Calculadora JS | Projeto simples de lógica no navegador | ✅ Finalizado |
+| Irrigador automatico | Projeto simples utilizando arduino e programado com c++ |✅Finalizado|
 
 ---
 
-### 📚 Tecnologias e Ferramentas que estou aprendendo
+### 🔧 Stack atual
 
+#### 🌐 Front-End (aprendendo)
 ![HTML](https://img.shields.io/badge/-HTML5-111?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-111?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=javascript)
+
+#### ⚙️ Back-End (foco atual e tambem aprendendo)
+![Java](https://img.shields.io/badge/-Java-111?&logo=openjdk)
 ![Git](https://img.shields.io/badge/-Git-111?&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-111?&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-111?&logo=mysql)
+
+#### 🛠️ Ferramentas
 ![VS Code](https://img.shields.io/badge/-VS%20Code-111?&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-111?&logo=intellij-idea)
 
 ---
 
 ### 📫 Contato
 
-Se quiser trocar uma ideia, colaborar ou só mandar um emoji aleatório:
+Quer ajudar, bater um papo ou alguma coisa do tipo tá ai meu: 
 
-- ✉️ Email: *coloque seuemailaqui@gmail.com*
-- 💼 LinkedIn: *coloque seu perfil aqui (opcional)*
-
+- ✉️ Email: *marceloaugustosouzapassos@gmail.com*
+- 💼 LinkedIn: (em criação)
+- Discord: otih.
 ---
 
 <p align="center">
