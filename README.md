@@ -4,7 +4,7 @@
 
 <h1 align="center">E aí 👋</h1>
 <p align="center">
-  Bem-vindo(a) ao meu espaço Git, aqui é para mostrar minha evolução e meus estudos ao longo do tempo.
+  Eae, aqui é para mostrar minha evolução e meus estudos ao longo do tempo.
 </p>
 
 ---
