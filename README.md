@@ -14,7 +14,6 @@
 - 🎓 Estudante de programação, atualmente mergulhado no mundo do **Back-End**.
 - 🧠 Estudando **Java** até agora.
 - 🌐 Também aprendendo o básico de **Front-End** (HTML, CSS e JavaScript), mas meu foco está mais no que roda por trás dos bastidores.
-- 🧩 Gosto de resolver problemas de lógica e entender como os sistemas funcionam de verdade👀
 
 ---
 
