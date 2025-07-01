@@ -22,7 +22,7 @@
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
 | API de Usuários | Projeto básico em Java com lógica de CRUD | 🛠️ Em progresso |
-| Portfolio Pessoal | Página sobre mim com estética anime | ✅ Finalizado |
+| Portfolio Pessoal | Página sobre mim| ✅ Finalizado |
 | Calculadora JS | Projeto simples de lógica no navegador | ✅ Finalizado |
 | Irrigador automatico | Projeto simples utilizando arduino e programado com c++ |✅Finalizado|
 
